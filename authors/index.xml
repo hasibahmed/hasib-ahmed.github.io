@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on </title>
-    <link>https://hasib-ahmed.com/authors/</link>
+    <link>https://hasibahmed.github.io/authors/</link>
     <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ahmed Hasib</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hasib-ahmed.com/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hasibahmed.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://hasib-ahmed.com/authors/admin/</link>
+      <link>https://hasibahmed.github.io/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hasib-ahmed.com/authors/admin/</guid>
+      <guid>https://hasibahmed.github.io/authors/admin/</guid>
       <description>Ahmed Hasib is a postdoctoral research associate at the University of Edinburgh working for the ATLAS experiment. ATLAS is one of the experiments at CERN designed to explore the secrets of the universe. As a experimental physicist, he explores large data collected by the Large Hadron Collider to discover or measure the fundamental laws of nature. He leads the Fast Calorimeter Simulation group which is developing fast simulation techniques for the detector.</description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://hasib-ahmed.com/authors/robert-ford/</link>
+      <link>https://hasibahmed.github.io/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hasib-ahmed.com/authors/robert-ford/</guid>
+      <guid>https://hasibahmed.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
